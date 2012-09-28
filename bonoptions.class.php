@@ -3,6 +3,7 @@
  * BonOptions
  * Helper class to handle get/set options
  *
+ * @licence GPL
  * @version 1.00
  * @created on 2012 Sep 27 - 1391 Shahrivar 6
  * @author Amir Hossein Hodjati Pour <me@Amir-Hossein.com>

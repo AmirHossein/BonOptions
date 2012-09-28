@@ -315,7 +315,7 @@ Get/Set instance key
 <br />
 <br />
 
-## Copyright
+## Licence
 **GPL**
 
 ## Author
