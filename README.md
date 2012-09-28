@@ -83,6 +83,7 @@ $bonOptions->hydration(true);
 $bonOptions->gender = 'Male';
 var_dump($bonOptions->gender); // string(4) "Male"
 var_dump(isset($bonOptions->gender)); // bool(true)
+$bonOptions->set('name', 'Amir Hossein');
 var_dump($bonOptions->name); // string(12) "Amir Hossein"
 var_dump($bonOptions->get('gender')); // string(4) "Male"
 
